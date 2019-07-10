@@ -15,7 +15,7 @@
   "electronVersion": "1.6.15",
   "dependencies": {
     "@atom/source-map-support": "^0.3.4",
-    "async": "0.2.6",
+    "async": "3.1.0",
     "atom-keymap": "8.2.7",
     "atom-select-list": "^0.1.0",
     "atom-ui": "0.4.1",
